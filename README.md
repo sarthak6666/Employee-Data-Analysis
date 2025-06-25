@@ -35,7 +35,7 @@ ON DELETE and ON UPDATE rules handle data consistency.
 
 Use JOINs for cross-table analysis.
 
-Let me know if you want this in .md format or expanded version.
+
 
 
 
